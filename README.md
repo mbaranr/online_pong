@@ -8,6 +8,6 @@ Online multiplayer pong implementation using python socket communication
 - Forward Error Correction (Reed-Solomon Codes)
 
 ## Credits
-* [m4mbo](https://github.com/m4mbo)
+* [mbaranr](https://github.com/mbaranr)
 * [Ia50nas ](https://github.com/Ia50nas)
 * [JS5Hu](https://github.com/JS5Hu)
